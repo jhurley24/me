@@ -14,4 +14,4 @@ Contact
 johnhurley.design@gmail.com
 
 Portfolio
-johnhurley.design
+https://www.johnhurley.design

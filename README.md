@@ -1,6 +1,4 @@
-# me
-
-👋 Hey, I’m John.
+# 👋 Hey, I’m John.
 
 I'm an Associate Designer at Cantina. I combine a graphic design background with technology and user-centered design thinking to collaboratively solve complex problems and champion positive outcomes for users.
 

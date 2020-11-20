@@ -9,18 +9,9 @@ While at Cantina, I've been fortunate enough to work with some incredibly talent
 I regularly write about visual design topics—most recently—animation and icon design, and teach visual design principles at Cantina. I also recently gave a webinar talk with Lead Designer Alice Chiang on best practices for prototyping. Currently, I'm not looking for new opportunities, but I am open to innovative side projects. Please don't hesitate to reach out.
 
 Want to learn more about my skills and experience?
-Download my résumé →
-
-Let’s connect on LinkedIn →
 
 Contact
 johnhurley.design@gmail.com
 
-(508) 566-3256
-
-Follow
-Twitter
-
-Medium
-
-Github
+Portfolio
+johnhurley.design
